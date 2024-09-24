@@ -24,7 +24,7 @@ I have worked as an IT Assistant ACCI for 2.9 years and as an IT Assistant with 
 - AZ-900 Certified
 - Google IT Support Professional Certified
 
-**Contacts:** 
+**Contacts** 
 
 Email: azizazizi_1995@outlook.com
 <!---
