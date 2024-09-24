@@ -17,7 +17,7 @@ I have worked as an IT Assistant ACCI for 2.9 years and as an IT Assistant with 
 - AZ-900 Certified
 - Google IT Support Professional Certified
 
-**Contacts:** [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
+**Contacts:** [Linkedin]([https://www.linkedin.com/in/aziz-azizi-883050153/](https://www.linkedin.com/in/aziz-mohammad-azizi-883050153)) | [Discord](https://discord.com/invite/azizazizi#9436)
 
 <!---
 azizazizi1995/azizazizi1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
