@@ -1,7 +1,7 @@
 Hi there, I'm Aziz Mohammad Azizi! 👋
 ----
 
-<img src="https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif" alt="Example Image" width="1200" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Example Image" width="1200" height="200">
 
 **Professional Summary**  
 
@@ -24,8 +24,9 @@ I have worked as an IT Assistant ACCI for 2.9 years and as an IT Assistant with 
 - AZ-900 Certified
 - Google IT Support Professional Certified
 
-**Contacts:** [Linkedin](https://www.linkedin.com/in/aziz-md-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
+**Contacts:** 
 
+Email: azizazizi_1995@outlook.com
 <!---
 azizazizi1995/azizazizi1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
