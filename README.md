@@ -1,5 +1,5 @@
 **Professional Summary**
- -Results-driven IT Officer with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
+ - results-driven IT Officer with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
 
 **Technical Skills**
 - **Networking Security:** TCP/IP, DHCP, DNS, VPN, Firewalls, Intrusion Detection Systems
