@@ -1,7 +1,7 @@
 **Professional Summary**
 Results-driven IT Officer with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
 
-- **Technical Skills**
+**Technical Skills**
 - **Networking Security:** TCP/IP, DHCP, DNS, VPN, Firewalls, Intrusion Detection Systems
 - **System Administration:** Windows Server, Linux, Active Directory, Virtualization (VMware, Hyper-V)
 - **Support & Troubleshooting:** Help Desk Support, Remote Desktop, ITIL Framework
@@ -9,7 +9,7 @@ Results-driven IT Officer with over 5 years of experience in managing IT infrast
 - **Cloud Technologies:** Microsoft Azure, Google Cloud
 - **Programming Languages:** C, Python3
 
-Contacts: [Email](mailto:azizazizi1995@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=+93794310630) | [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
+**Contacts:** [Email](mailto:azizazizi1995@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=+93794310630) | [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
 
 <!---
 azizazizi1995/azizazizi1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
