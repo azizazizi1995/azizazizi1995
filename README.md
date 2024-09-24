@@ -1,4 +1,9 @@
-**Professional Summary** - results-driven IT Professional with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
+Hi there, I'm Aziz Mohammad Azizi! 👋
+----
+![Alt text](https://cloudwaveblog.wordpress.com/wp-content/uploads/2016/05/cropped-information-technology-banner-hd-emerging-technologies-banner.jpg)
+**Professional Summary**  
+
+I am a results-driven IT Professional with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
 
 **Technical Skills**
 - **Networking Security:** TCP/IP, DHCP, DNS, VPN, Firewalls, Intrusion Detection Systems
