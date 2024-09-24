@@ -9,7 +9,7 @@ Results-driven IT Officer with over 5 years of experience in managing IT infrast
 - **Cloud Technologies:** Microsoft Azure, Google Cloud
 - **Programming Languages:** C, Python3
 
-**Contacts:** [Email](mailto:azizazizi1995@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=+93794310630) | [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
+**Contacts:** [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
 
 <!---
 azizazizi1995/azizazizi1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
