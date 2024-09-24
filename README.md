@@ -1,6 +1,8 @@
 Hi there, I'm Aziz Mohammad Azizi! 👋
 ----
-![Alt text](https://cloudwaveblog.wordpress.com/wp-content/uploads/2016/05/cropped-information-technology-banner-hd-emerging-technologies-banner.jpg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Example Image" width="1200" height="200">
+
 **Professional Summary**  
 
 I am a results-driven IT Professional with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
