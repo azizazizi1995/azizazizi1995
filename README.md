@@ -7,8 +7,10 @@
 - **Software & Tools:** Microsoft Office Suite, JIRA, OTRS, PowerShell, SQL
 - **Cloud Technologies:** Microsoft Azure, Google Cloud
 - **Programming Languages:** C, Python3
+
 **Experience** -
-I have worked as an IT Assistant with Bank e Millie Afghan for 5 months and as a Zonal IT Officer with Azizi Bank for 1.5 years. Since September 2022, I have been working with Save the Children International
+I have worked as an IT Assistant ACCI for 2.9 years and as an IT Assistant with Bank-e-Millie Afghan for 5 months and as a Zonal IT Officer with Azizi Bank for 1.5 years. Since September 2022, I have been working with Save the Children International, Balkh-Afghanistan
+
 **Certifications**
 - Network+ N10-008 Certified
 - CCNA 200-301 Certified
