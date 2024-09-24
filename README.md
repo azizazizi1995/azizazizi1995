@@ -1,9 +1,14 @@
-- Hi, I’m Aziz M Azizi, a passionate self-taught full stack web developer and a freelance Software Engineer from Afghanistan.
-Further, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- Results-driven IT Officer with over 5 years of experience in managing IT infrastructure and providing technical support for organizations. Expertise in network administration, system security, and user training. Committed to optimizing IT processes and enhancing system performance to drive business efficiency.
 
-- Reach me through: [Email](mailto:azizazizi1995@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=+93794310630) | [Facebook](https://m.facebook.com/azizazizi1995) | [Twitter](https://www.twitter.com/azizazizi_1995) | [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
+- Reach me through: [Email](mailto:azizazizi1995@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=+93794310630) | [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
 
-- **Language and tools I have good command in / familiar with:** C, Python, Django, Javascript, Tkinter and SQL
+- **Technical Skills**
+- **Networking Security:**TCP/IP, DHCP, DNS, VPN, Firewalls, Intrusion Detection Systems
+- **System Administration:**Windows Server, Linux, Active Directory, Virtualization (VMware, Hyper-V)
+- **Support & Troubleshooting:**Help Desk Support, Remote Desktop, ITIL Framework
+- **Software & Tools:**Microsoft Office Suite, JIRA, OTRS, PowerShell, SQL
+- **Cloud Technologies:**Microsoft Azure, Google Cloud
+- **Programming Languages:** C, Python
 <!---
 azizazizi1995/azizazizi1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
