@@ -8,6 +8,12 @@
 - **Cloud Technologies:** Microsoft Azure, Google Cloud
 - **Programming Languages:** C, Python3
 
+**Certifications**
+- Network+ N10-008 Certified
+- CCNA 200-301 Certified
+- AZ-900 Certified
+- Google IT Support Professional Certified
+
 **Contacts:** [Linkedin](https://www.linkedin.com/in/aziz-azizi-883050153/) | [Discord](https://discord.com/invite/azizazizi#9436)
 
 <!---
